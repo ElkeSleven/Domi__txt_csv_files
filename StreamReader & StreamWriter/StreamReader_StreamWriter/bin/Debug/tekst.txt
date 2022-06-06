@@ -1,0 +1,8 @@
+lijstMetPersonen
+
+1: voornaam achternaam
+2: voornaam achternaam
+3: voornaam achternaam
+4: voornaam achternaam
+5: voornaam l;,
+6: voornaam l;,
