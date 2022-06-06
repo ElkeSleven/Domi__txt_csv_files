@@ -96,14 +96,14 @@
                 <!-- opslaan als een txt bestand-->
                 <Button
                 Name="btnLeesBestand"
-                Content="lees bestand"
+                Content="lees txt bestand"
                 Click="btnLeesBestand_Click"
                     
                 
                 />
                 <Button
                 Name="btnBestandOpslaan"
-                Content="bestand opslaan"
+                Content="bestand als txt opslaan"
                     Click="btnBestandOpslaan_Click"
                 
                 />
