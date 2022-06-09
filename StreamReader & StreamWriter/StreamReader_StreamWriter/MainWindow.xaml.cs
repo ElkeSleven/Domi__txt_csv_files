@@ -78,13 +78,6 @@ namespace StreamReader_StreamWriter
             listReadHeader = "";
             txtLijstVoornamenAchternamen.Text = "lijstMetPersonenen:";
 
-
-
-            //**DOMI(kommafile.csv): opslaan en lezen van een csv bestand met gerbuik van een List
-            //datatableVoornamenAchternamen = null;
-
-
-
         }
 
 
@@ -100,12 +93,12 @@ namespace StreamReader_StreamWriter
 
 
 
-                //**DOMI(text.txt): tekst toevoegen aan list en ingevoerde text weergeven in de textbox 
+                //**DOMI(text.txt): tekst toevoegen aan list en ingevoerde 
                 listVoornamenAchternamen_txt.Add($"{id.ToString()}: {txtVoornaam.Text} {txtAchternaam.Text}");
 
 
 
-                //**DOMI(kommafile.csv): 
+                //**DOMI(kommafile.csv):  tekst toevoegen aan list en ingevoerde 
                 listVoornamenAchternamen_csv.Add($"{id.ToString()};{txtVoornaam.Text};{txtAchternaam.Text}");
 
             }

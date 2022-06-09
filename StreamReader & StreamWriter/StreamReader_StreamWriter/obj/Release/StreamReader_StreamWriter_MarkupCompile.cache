@@ -4,11 +4,11 @@
 winexe
 C#
 .cs
-C:\Users\elkes\OneDrive\Documents\GitHub\DOMI\Domi__txt_csv_files\StreamReader & StreamWriter\StreamReader_StreamWriter\obj\Debug\
+C:\Users\elkes\OneDrive\Documents\GitHub\DOMI\Domi__txt_csv_files\StreamReader & StreamWriter\StreamReader_StreamWriter\obj\Release\
 StreamReader_StreamWriter
 none
 false
-DEBUG;TRACE
+TRACE
 C:\Users\elkes\OneDrive\Documents\GitHub\DOMI\Domi__txt_csv_files\StreamReader & StreamWriter\StreamReader_StreamWriter\App.xaml
 1219584333
 
